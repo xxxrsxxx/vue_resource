@@ -1,0 +1,31 @@
+@charset "UTF-8";
+@import url("//fonts.googleapis.com/earlyaccess/notosanskr.css");
+
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    appearance: none;
+    -webkit-appearance: none;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+body{
+    font-size:14px;
+    font-family: "Noto Sans KR", sans-serif !important;
+}
+
+img{
+    width:100%;
+    vertical-align: top;
+}
+button{
+    border:none;
+}
+#app {
+    width:100%;
+    min-height: 100vh;
+}
+
+$header-height: 50px;

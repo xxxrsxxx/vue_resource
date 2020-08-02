@@ -1,0 +1,29 @@
+{
+  "swiper" : {
+    "tit" : "swipe",
+    "items" : [{
+        "id": 1,
+        "desc": "basic swipe"
+      },{
+        "id": 2,
+        "desc": "basic swipe"
+      },{
+        "id": 3,
+        "desc": "basic swipe"
+      }]
+  },
+  "video" :{
+    "tit" : "swipe",
+    "items" : [{
+        "id": 1,
+        "desc": "video",
+        "poster": "https://www.w3schools.com//images/w3schools_green.jpg",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      },{
+        "id": 2,
+        "desc": "video",
+        "poster": "https://www.w3schools.com//images/w3schools_green.jpg",
+        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+      }]
+  }
+}
